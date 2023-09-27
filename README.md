@@ -1,2 +1,0 @@
-# Upgrad MLOPS
-Leadscoring. 
